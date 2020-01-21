@@ -1,9 +1,0 @@
-{
-  "docs": {
-    "SimpleLogic": ["doc1"],
-    "Funkcje Programu": ["doc2", "doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
-  }
-}
