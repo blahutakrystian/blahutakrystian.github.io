@@ -1,6 +1,9 @@
 ---
-id: doc4
-title: Other Document
+id: doc6
+title: Mapy
+sidebar_label: Mapy
 ---
 
-this is another document
+## Wygląd okna
+
+![alt-text](/docs/assets/okno_glowne.png)

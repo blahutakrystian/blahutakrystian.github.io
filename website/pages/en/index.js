@@ -107,7 +107,7 @@ class Index extends React.Component {
           {
             content:
               'Już dzisiaj skorzystaj z możliwości jakie oferuje SimpleLogic, użyj linków na górze strony aby pobrać aplikacje.' +
-              'Przejżyj również dokumentację dzięki której będziesz w stanie w pełni wykorztystać potencjał SimpleLogistic!',
+              'Przejrzyj również dokumentację dzięki której będziesz w stanie w pełni wykorztystać potencjał SimpleLogic!',
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: 'left',
             title: 'Nie czekaj!',
