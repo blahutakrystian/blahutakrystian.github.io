@@ -4,9 +4,13 @@ title: Magazyny
 sidebar_label: Magazyny
 ---
 
+
+
+
 ## Wygląd okna
 
 ![alt-text](/docs/assets/okno_magazyny.png)
+
 
 ## Dodawanie nowego magazynu
 
